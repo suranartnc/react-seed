@@ -1,6 +1,12 @@
 # React Seed
 A development environment for starting up a react project with built-in API server.
 
+## Installation
+
+```bash
+$ npm install
+```
+
 ## API Server
 
 ```bash
