@@ -19,5 +19,13 @@
   "bugs": {
     "url": "https://github.com/suranartnc/react-seed/issues"
   },
-  "homepage": "https://github.com/suranartnc/react-seed#readme"
+  "homepage": "https://github.com/suranartnc/react-seed#readme",
+  "devDependencies": {
+    "babel-eslint": "^8.1.2",
+    "eslint": "^4.14.0",
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-plugin-prettier": "^2.4.0",
+    "eslint-plugin-react": "^7.5.1",
+    "prettier": "^1.9.2"
+  }
 }
