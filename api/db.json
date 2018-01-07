@@ -32,109 +32,235 @@
       "categoryId": 1,
       "name": "Chinese Cabbage",
       "images": "chinese_cabbage.jpg",
-      "price": 40
+      "price": 40,
+      "rating": {
+        "one": 0,
+        "two": 0,
+        "three": 0,
+        "four": 0,
+        "five": 0
+      }
     }, { 
       "id": 2, 
       "categoryId": 1,
       "name": "Wakame",
       "images": "wakame.jpg",
-      "price": 40
+      "price": 40,
+      "rating": {
+        "one": 0,
+        "two": 0,
+        "three": 0,
+        "four": 0,
+        "five": 0
+      }
     }, { 
       "id": 3, 
       "categoryId": 1,
       "name": "Straw Mushroom",
       "images": "straw_mushroom.jpg",
-      "price": 40
+      "price": 40,
+      "rating": {
+        "one": 0,
+        "two": 0,
+        "three": 0,
+        "four": 0,
+        "five": 0
+      }
     }, { 
       "id": 4, 
       "categoryId": 2,
       "name": "Fresh Chicken",
       "images": "fresh_chicken.jpg",
-      "price": 60
+      "price": 60,
+      "rating": {
+        "one": 0,
+        "two": 0,
+        "three": 0,
+        "four": 0,
+        "five": 0
+      }
     }, { 
       "id": 5, 
       "categoryId": 2,
       "name": "Sliced Pork",
       "images": "sliced_pork.jpg",
-      "price": 60
+      "price": 60,
+      "rating": {
+        "one": 0,
+        "two": 0,
+        "three": 0,
+        "four": 0,
+        "five": 0
+      }
     }, { 
       "id": 6, 
       "categoryId": 2,
       "name": "Fresh Egg",
       "images": "fresh_egg.jpg",
-      "price": 10
+      "price": 10,
+      "rating": {
+        "one": 0,
+        "two": 0,
+        "three": 0,
+        "four": 0,
+        "five": 0
+      }
     }, { 
       "id": 7, 
       "categoryId": 3,
       "name": "Roasted Duck (Large)",
       "images": "roasted_duck_large.jpg",
-      "price": 260
+      "price": 260,
+      "rating": {
+        "one": 0,
+        "two": 0,
+        "three": 0,
+        "four": 0,
+        "five": 0
+      }
     }, { 
       "id": 8, 
       "categoryId": 3,
       "name": "Roasted Duck (Small)",
       "images": "roasted_duck_small.png",
-      "price": 150
+      "price": 150,
+      "rating": {
+        "one": 0,
+        "two": 0,
+        "three": 0,
+        "four": 0,
+        "five": 0
+      }
     }, { 
       "id": 9, 
       "categoryId": 3,
       "name": "Red Pork and Crispy Pork",
       "images": "red_pork_and_crispy_pork.jpg",
-      "price": 240
+      "price": 240,
+      "rating": {
+        "one": 0,
+        "two": 0,
+        "three": 0,
+        "four": 0,
+        "five": 0
+      }
     }, { 
       "id": 10, 
       "categoryId": 4,
       "name": "Shrimp Shumai",
       "images": "shrimp_shumai.jpg",
-      "price": 80
+      "price": 80,
+      "rating": {
+        "one": 0,
+        "two": 0,
+        "three": 0,
+        "four": 0,
+        "five": 0
+      }
     }, { 
       "id": 11, 
       "categoryId": 4,
       "name": "Crab Shumai",
       "images": "crab_shumai.jpg",
-      "price": 80
+      "price": 80,
+      "rating": {
+        "one": 0,
+        "two": 0,
+        "three": 0,
+        "four": 0,
+        "five": 0
+      }
     }, { 
       "id": 12, 
       "categoryId": 4,
       "name": "Pork Shumai",
       "images": "pork_shumai.jpg",
-      "price": 60
+      "price": 60,
+      "rating": {
+        "one": 0,
+        "two": 0,
+        "three": 0,
+        "four": 0,
+        "five": 0
+      }
     }, { 
       "id": 13, 
       "categoryId": 5,
       "name": "Mineral Water",
       "images": "mineral_water.png",
-      "price": 30
+      "price": 30,
+      "rating": {
+        "one": 0,
+        "two": 0,
+        "three": 0,
+        "four": 0,
+        "five": 0
+      }
     }, { 
       "id": 14, 
       "categoryId": 5,
       "name": "Iced Coffee",
       "images": "iced_coffee.jpg",
-      "price": 40
+      "price": 40,
+      "rating": {
+        "one": 0,
+        "two": 0,
+        "three": 0,
+        "four": 0,
+        "five": 0
+      }
     }, { 
       "id": 15, 
       "categoryId": 5,
       "name": "Orange Juice",
       "images": "orange_juice.jpg",
-      "price": 30
+      "price": 30,
+      "rating": {
+        "one": 0,
+        "two": 0,
+        "three": 0,
+        "four": 0,
+        "five": 0
+      }
     }, { 
       "id": 16, 
       "categoryId": 6,
       "name": "Vanilla Chip Ice Cream",
       "images": "vanilla_chip_ice_cream.jpg",
-      "price": 40
+      "price": 40,
+      "rating": {
+        "one": 0,
+        "two": 0,
+        "three": 0,
+        "four": 0,
+        "five": 0
+      }
     }, { 
       "id": 17, 
       "categoryId": 6,
       "name": "Strawberry Ice Cream",
       "images": "strawberry_ice_cream.jpg",
-      "price": 40
+      "price": 40,
+      "rating": {
+        "one": 0,
+        "two": 0,
+        "three": 0,
+        "four": 0,
+        "five": 0
+      }
     }, { 
       "id": 18, 
       "categoryId": 6,
       "name": "Chocolate Choc Chip Ice Cream",
       "images": "chocolate_choc_chip_ice_cream.jpg",
-      "price": 40
+      "price": 40,
+      "rating": {
+        "one": 0,
+        "two": 0,
+        "three": 0,
+        "four": 0,
+        "five": 0
+      }
     }
   ]
 }
