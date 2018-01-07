@@ -26,6 +26,45 @@
       "images": "desserts.svg"
     }
   ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "Very good.",
+      "menuId": 1
+    }, {
+      "id": 2,
+      "body": "Very good.",
+      "menuId": 1
+    }, {
+      "id": 3,
+      "body": "Very good.",
+      "menuId": 1
+    }, {
+      "id": 4,
+      "body": "Very good.",
+      "menuId": 1
+    }, {
+      "id": 5,
+      "body": "Very good.",
+      "menuId": 1
+    }, {
+      "id": 6,
+      "body": "Very good.",
+      "menuId": 1
+    }, {
+      "id": 7,
+      "body": "Very good.",
+      "menuId": 1
+    }, {
+      "id": 8,
+      "body": "Very good.",
+      "menuId": 1
+    }, {
+      "id": 9,
+      "body": "Very good.",
+      "menuId": 1
+    }
+  ],
   "menus": [
     { 
       "id": 1, 
