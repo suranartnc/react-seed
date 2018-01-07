@@ -18,7 +18,7 @@ $ npm run api
 Get content of the menu with ID:1 including its category
 
 ```
-GET http://localhost:4000/menus/1?_expand=category
+GET http://localhost:4000/menus/1?_expand=category&_embed=comments
 ```
 
 Here is the result
@@ -30,6 +30,30 @@ Here is the result
   "name": "Chinese Cabbage",
   "images": "chinese_cabbage.jpg",
   "price": 40,
+  "rating": {
+    "one": 345,
+    "two": 605,
+    "three": 795,
+    "four": 895,
+    "five": 659
+  },
+  "comments": [
+    {
+      "id": 1,
+      "body": "Very good.",
+      "menuId": 1
+    },
+    {
+      "id": 2,
+      "body": "Not bad.",
+      "menuId": 1
+    },
+    {
+      "id": 3,
+      "body": "Well done.",
+      "menuId": 1
+    }
+  ],
   "category": {
     "id": 1,
     "name": "Vegetable",
