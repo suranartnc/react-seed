@@ -73,11 +73,11 @@
       "images": "chinese_cabbage.jpg",
       "price": 40,
       "rating": {
-        "one": 0,
-        "two": 0,
-        "three": 0,
-        "four": 0,
-        "five": 0
+        "one": 345,
+        "two": 605,
+        "three": 795,
+        "four": 895,
+        "five": 659
       }
     }, { 
       "id": 2, 
@@ -86,11 +86,11 @@
       "images": "wakame.jpg",
       "price": 40,
       "rating": {
-        "one": 0,
-        "two": 0,
-        "three": 0,
-        "four": 0,
-        "five": 0
+        "one": 58,
+        "two": 36,
+        "three": 50,
+        "four": 3498,
+        "five": 439
       }
     }, { 
       "id": 3, 
@@ -99,11 +99,11 @@
       "images": "straw_mushroom.jpg",
       "price": 40,
       "rating": {
-        "one": 0,
-        "two": 0,
-        "three": 0,
-        "four": 0,
-        "five": 0
+        "one": 456,
+        "two": 8,
+        "three": 32,
+        "four": 67,
+        "five": 6
       }
     }, { 
       "id": 4, 
@@ -112,11 +112,11 @@
       "images": "fresh_chicken.jpg",
       "price": 60,
       "rating": {
-        "one": 0,
-        "two": 0,
-        "three": 0,
+        "one": 456,
+        "two": 879,
+        "three": 23,
         "four": 0,
-        "five": 0
+        "five": 435
       }
     }, { 
       "id": 5, 
@@ -125,11 +125,11 @@
       "images": "sliced_pork.jpg",
       "price": 60,
       "rating": {
-        "one": 0,
-        "two": 0,
-        "three": 0,
-        "four": 0,
-        "five": 0
+        "one": 435,
+        "two": 879,
+        "three": 98,
+        "four": 435,
+        "five": 890
       }
     }, { 
       "id": 6, 
@@ -138,11 +138,11 @@
       "images": "fresh_egg.jpg",
       "price": 10,
       "rating": {
-        "one": 0,
-        "two": 0,
-        "three": 0,
-        "four": 0,
-        "five": 0
+        "one": 234,
+        "two": 6,
+        "three": 879,
+        "four": 45,
+        "five": 9
       }
     }, { 
       "id": 7, 
@@ -151,11 +151,11 @@
       "images": "roasted_duck_large.jpg",
       "price": 260,
       "rating": {
-        "one": 0,
-        "two": 0,
-        "three": 0,
-        "four": 0,
-        "five": 0
+        "one": 2,
+        "two": 5,
+        "three": 7,
+        "four": 90,
+        "five": 32
       }
     }, { 
       "id": 8, 
@@ -164,11 +164,11 @@
       "images": "roasted_duck_small.png",
       "price": 150,
       "rating": {
-        "one": 0,
-        "two": 0,
-        "three": 0,
+        "one": 4,
+        "two": 78,
+        "three": 76,
         "four": 0,
-        "five": 0
+        "five": 5
       }
     }, { 
       "id": 9, 
@@ -177,11 +177,11 @@
       "images": "red_pork_and_crispy_pork.jpg",
       "price": 240,
       "rating": {
-        "one": 0,
-        "two": 0,
-        "three": 0,
-        "four": 0,
-        "five": 0
+        "one": 768,
+        "two": 435,
+        "three": 68,
+        "four": 23,
+        "five": 79
       }
     }, { 
       "id": 10, 
@@ -190,11 +190,11 @@
       "images": "shrimp_shumai.jpg",
       "price": 80,
       "rating": {
-        "one": 0,
-        "two": 0,
-        "three": 0,
-        "four": 0,
-        "five": 0
+        "one": 435,
+        "two": 5,
+        "three": 67,
+        "four": 768,
+        "five": 5
       }
     }, { 
       "id": 11, 
@@ -203,11 +203,11 @@
       "images": "crab_shumai.jpg",
       "price": 80,
       "rating": {
-        "one": 0,
-        "two": 0,
-        "three": 0,
-        "four": 0,
-        "five": 0
+        "one": 9,
+        "two": 456,
+        "three": 23,
+        "four": 89,
+        "five": 45
       }
     }, { 
       "id": 12, 
@@ -216,11 +216,11 @@
       "images": "pork_shumai.jpg",
       "price": 60,
       "rating": {
-        "one": 0,
-        "two": 0,
-        "three": 0,
-        "four": 0,
-        "five": 0
+        "one": 2,
+        "two": 56,
+        "three": 768,
+        "four": 98,
+        "five": 2
       }
     }, { 
       "id": 13, 
@@ -229,11 +229,11 @@
       "images": "mineral_water.png",
       "price": 30,
       "rating": {
-        "one": 0,
-        "two": 0,
-        "three": 0,
-        "four": 0,
-        "five": 0
+        "one": 345,
+        "two": 6,
+        "three": 67,
+        "four": 345,
+        "five": 435
       }
     }, { 
       "id": 14, 
@@ -242,11 +242,11 @@
       "images": "iced_coffee.jpg",
       "price": 40,
       "rating": {
-        "one": 0,
-        "two": 0,
-        "three": 0,
-        "four": 0,
-        "five": 0
+        "one": 546,
+        "two": 436,
+        "three": 768,
+        "four": 879,
+        "five": 34
       }
     }, { 
       "id": 15, 
@@ -255,10 +255,10 @@
       "images": "orange_juice.jpg",
       "price": 30,
       "rating": {
-        "one": 0,
-        "two": 0,
-        "three": 0,
-        "four": 0,
+        "one": 45,
+        "two": 768,
+        "three": 3,
+        "four": 546,
         "five": 0
       }
     }, { 
